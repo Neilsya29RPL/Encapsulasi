@@ -15,3 +15,7 @@ Pada hasil run latihan 3, terdapat keluaran “Name, Absen, Address” yang dise
 # Latihan 4
 <img width="822" alt="Latihan 4" src="https://user-images.githubusercontent.com/68727623/111461865-4df57f00-8750-11eb-9042-0fcaf65949a5.png">
 Pada awal hasil run latihan 4 tertulis “Password Salah“ karena masukan password tidak sesuai dengan getPenumpang(). Dan apabila password yang dimasukkan sesuai dengan getPenumpang() maka akan keluar “Pasword Benar” seperti pada hasil run diatas. Pada hasil run diatas, Jumlah  penumpang bus selalu mengalami penambahan dengan ketentuan jumlah penumpang maksimum 5 penumpang. Total penambahan penumpang melebihi batas maksimum, sehingga pada keluran tersebut tertulis “Penumpang Melebihi Kuota”.
+
+# Praktikum 1
+<img width="821" alt="Praktikum 1" src="https://user-images.githubusercontent.com/68727623/111462294-d8d67980-8750-11eb-8e5a-fc385edaac99.png">
+Pada hasil run praktikum 1, masukan password sesuai dengan getPenumpang() sehingga tertulis “Password Benar”. Dan apabila masukan password tidak sesuai dengan getPenumpang() maka tertulis “Password Salah”. Perhitungan berat penumpang selalu bertambah dengan batas Maksimum berat penumpang adalah 80.  Jika berat penumpang melebihi batas maksimum yang telah ditetapkan, maka akan keluar “Berat Penumpang Melebihi Batas Maksimal” seperti pada run diatas. Di akhir Run terdapat hitungan Rata-rata berat penumpang bus yang diperoleh dari getAverage(). 
