@@ -19,3 +19,7 @@ Pada awal hasil run latihan 4 tertulis “Password Salah“ karena masukan passw
 # Praktikum 1
 <img width="821" alt="Praktikum 1" src="https://user-images.githubusercontent.com/68727623/111462294-d8d67980-8750-11eb-8e5a-fc385edaac99.png">
 Pada hasil run praktikum 1, masukan password sesuai dengan getPenumpang() sehingga tertulis “Password Benar”. Dan apabila masukan password tidak sesuai dengan getPenumpang() maka tertulis “Password Salah”. Perhitungan berat penumpang selalu bertambah dengan batas Maksimum berat penumpang adalah 80.  Jika berat penumpang melebihi batas maksimum yang telah ditetapkan, maka akan keluar “Berat Penumpang Melebihi Batas Maksimal” seperti pada run diatas. Di akhir Run terdapat hitungan Rata-rata berat penumpang bus yang diperoleh dari getAverage(). 
+
+# Praktikum 2
+<img width="820" alt="Praktikum 2" src="https://user-images.githubusercontent.com/68727623/111462783-6a45eb80-8751-11eb-9ff5-fdd3f1566e89.png">
+Pada hasil tampilan run praktikum 2 muncul diameter, jari-jari, luas permukaan, dan volume bola beserta jumlah atau hasilnya sesuai dengan ketetapan dan rumus-rumus yang ada pada method setJarijari(), showDiameter(), showLuasPermukaan(), dan showVolume(). Sehingga menghasilkan luas permukaan dan volume bola yang benar dan sesuai perhitungan.
