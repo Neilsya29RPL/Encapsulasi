@@ -7,3 +7,7 @@ Pada hasil run latihan 1, Penumpang bus mengalami penambahan maupun pengurangan.
 # Latihan 2
 <img width="823" alt="Latihan 2" src="https://user-images.githubusercontent.com/68727623/111459606-7c258f80-874d-11eb-8116-47130742de7d.png">
 Pada hasil run latihan 2, jumlah penumpang  bus selalu bertambah. Dengan ketetapan jumlah penumpang maksimum adalah 40 penumpang. Di akhir program, total penambahan penumpang mencapai 46 penumpang yang melebihi batas maksimum ketetapan jumlah penumpang. Sehingga tertulis “Penumpang Melebihi Kuota” seperti pada keluaran diatas. 
+
+# Latihan 3
+<img width="820" alt="Latihan 3" src="https://user-images.githubusercontent.com/68727623/111461358-b001b480-874f-11eb-919d-4d8357cd5195.png">
+Pada hasil run latihan 3, terdapat keluaran “Name, Absen, Address” yang disertai keluaran Nama, Absen, dan Address (alamat) seseorang yang sesuai dengan settingan kode yang telah dibuat seperti getName(), getAbsen(), getAddress().
